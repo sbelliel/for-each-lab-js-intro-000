@@ -14,7 +14,7 @@ console.log(animals)
 }
 
 function doToArray(array, callback) {
- array.forEach(function callback(array) {
-
+ array.forEach(function(element) {
+callback(element)
  })
 }
