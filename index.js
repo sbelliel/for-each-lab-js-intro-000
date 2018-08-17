@@ -8,6 +8,7 @@ function iterate(callback) {
 var animals = ["dog", "cat", "rhino"];
 animals.forEach(function() {
 })
+return animals
 }
 
 function doToArray(array, callback) {
