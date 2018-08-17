@@ -14,5 +14,9 @@ return element
 }
 
 function doToArray(array, callback) {
+ array.forEach(function(callback) {
+   
+ }
 
+)
 }
