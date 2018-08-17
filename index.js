@@ -9,7 +9,7 @@ var animals = ["dog", "cat", "rhino"];
 animals.forEach(function callback(element) {
 
 })
-console.log(animals);
+console.log(animals.length);
 }
 
 function doToArray(array, callback) {
