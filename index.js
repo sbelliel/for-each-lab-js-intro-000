@@ -6,6 +6,7 @@ function iterativeLog(array) {
 
 function iterate(callback) {
 var animals = ["dog", "cat", "rhino"];
+var copy = [];
 animals.forEach(function callback(element) {
 })
 console.log(copy)
