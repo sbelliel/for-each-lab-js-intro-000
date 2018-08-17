@@ -9,7 +9,7 @@ var animals = ["dog", "cat", "rhino"];
 animals.forEach(function(element) {
   return element
 }
-  
+
 )
 }
 
