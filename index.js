@@ -12,7 +12,7 @@ console.log(`${callback}`)
 }
 
 function doToArray(array, callback) {
- array.forEach(function callback() {
+ array.forEach(function callback(array) {
 
  })
 }
