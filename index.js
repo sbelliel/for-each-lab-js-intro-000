@@ -10,7 +10,7 @@ var copy = [];
 animals.forEach(function callback(element) {
   copy.push(element)
 })
-console.log(copy)
+//console.log(copy)
 }
 
 function doToArray(array, callback) {
