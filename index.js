@@ -6,9 +6,8 @@ function iterativeLog(array) {
 
 function iterate(callback) {
 var animals = ["dog", "cat", "rhino"];
-animals.forEach(function(element) {
-  callback(element)
-
+animals.forEach(function callback(element) {
+  return animals
 })
 console.log(animals)
 }
