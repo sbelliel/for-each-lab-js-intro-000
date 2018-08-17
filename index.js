@@ -6,11 +6,10 @@ function iterativeLog(array) {
 
 function iterate(callback) {
 var animals = ["dog", "cat", "rhino"];
-var copy = [];
 animals.forEach(function callback(element) {
-  copy.push(element)
+
 })
-//console.log(copy)
+console.log(animals);
 }
 
 function doToArray(array, callback) {
