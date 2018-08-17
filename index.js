@@ -5,7 +5,7 @@ function iterativeLog(array) {
 }
 
 function iterate(callback) {
-//array = ["dog", "cat", "rhino"];
+var array = ["dog", "cat", "rhino"];
 }
 
 function doToArray(array, callback) {
